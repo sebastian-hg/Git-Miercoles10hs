@@ -1,0 +1,22 @@
+Working Directory
+
+	se llama asi a la carpeta donde se encuentra nuestro proyecto,
+ en la cual realizamos los cambios que luego queremos que se registren
+
+COMANDOS:
+			normalmente no es necesario
+			el uso de la linea de comandos
+			, pero de ser asi podemos utilizar cualquiera
+			de los comandos permitidos por la consola 
+
+listas de comando 
+CD "CHECK DIRECTORY"
+	cd <folder> > abre una carpeta
+	cd .. > sube un nivel (carpeta anterior)
+	cd\ > vuelve ruta raiz
+
+MKDIR "MAKE DIRECTORY"
+	mkdir <folder> >crea una o varias carpetas
+
+GIT:
+	GIT INIT   
