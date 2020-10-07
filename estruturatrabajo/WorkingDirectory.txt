@@ -19,4 +19,7 @@ MKDIR "MAKE DIRECTORY"
 	mkdir <folder> >crea una o varias carpetas
 
 GIT:
-	GIT INIT   
+	GIT INItt
+sd
+sds
+sd  
